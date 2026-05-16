@@ -1,0 +1,101 @@
+DOCTOR_ID,DOCTOR_NAME,SPECIALIZATION,HOSPITAL_NAME
+1,Eva Deol,Orthopedic,Thaker-Sathe Hospital
+2,Yasmin Gandhi,Pediatrician,Khosla-Contractor Hospital
+3,Ivan Mann,Dermatologist,"Cheema, Sarkar and Tak Hospital"
+4,Devansh Chatterjee,Pediatrician,Goswami-Bhatti Hospital
+5,Hansh Koshy,Neurologist,Badami Ltd Hospital
+6,Divij Chatterjee,Cardiologist,Mani-Shanker Hospital
+7,Nirvaan Dhawan,Dermatologist,"Vig, Rastogi and Mangat Hospital"
+8,Jivin Bajwa,Cardiologist,Bhakta Ltd Hospital
+9,Bhamini Bakshi,Orthopedic,Kapadia-Edwin Hospital
+10,Armaan Kashyap,Cardiologist,Shan-Tripathi Hospital
+11,Rohan Devan,Pediatrician,Aurora and Sons Hospital
+12,Priyansh Johal,Neurologist,Wali-Agrawal Hospital
+13,Drishya Jhaveri,Cardiologist,"Iyer, Mane and Handa Hospital"
+14,Renee Bora,Neurologist,Kala-Kala Hospital
+15,Myra Wali,Dermatologist,Date and Sons Hospital
+16,Sahil Toor,Dermatologist,Samra-Rao Hospital
+17,Anaya Shenoy,Pediatrician,"Ravi, Rajagopal and Ramaswamy Hospital"
+18,Reyansh Talwar,Pediatrician,Varkey and Sons Hospital
+19,Kismat Sarma,Pediatrician,Raman-Contractor Hospital
+20,Sara Dora,Neurologist,"Hans, Vasa and Ahuja Hospital"
+21,Diya Amble,Orthopedic,"Lad, Lata and Buch Hospital"
+22,Prisha Shan,Orthopedic,Chandran PLC Hospital
+23,Nirvi Din,Orthopedic,Dhingra and Sons Hospital
+24,Jivin Tak,Dermatologist,"Shah, Raval and Ramachandran Hospital"
+25,Lakshit Khalsa,Dermatologist,"Ahluwalia, Uppal and Goda Hospital"
+26,Fateh Varkey,Orthopedic,Gaba Group Hospital
+27,Hridaan Borde,Pediatrician,Seshadri LLC Hospital
+28,Aradhya Srinivas,Cardiologist,"Ganguly, Kumer and Das Hospital"
+29,Riya Sundaram,Orthopedic,Srivastava-Bobal Hospital
+30,Prerak Kade,Cardiologist,Keer-Ganguly Hospital
+31,Aarav Sachar,Orthopedic,"Vig, Grewal and Garde Hospital"
+32,Faiyaz Goyal,Cardiologist,Wable Ltd Hospital
+33,Dharmajan Datta,Pediatrician,Salvi-Das Hospital
+34,Indrajit Hegde,Dermatologist,Lad PLC Hospital
+35,Nitara Sarna,Orthopedic,Raju Ltd Hospital
+36,Hunar Dora,Orthopedic,Balan-Chaudhari Hospital
+37,Urvi Bansal,Pediatrician,Raman Inc Hospital
+38,Mohanlal Sibal,Neurologist,Verma-Sami Hospital
+39,Arhaan Rao,Orthopedic,Sachdev PLC Hospital
+40,Anahita Solanki,Cardiologist,"Thakkar, Sachdeva and Kurian Hospital"
+41,Taimur Sachar,Pediatrician,Wali LLC Hospital
+42,Rania Bail,Neurologist,Deo Ltd Hospital
+43,Hrishita Bandi,Orthopedic,"Basak, Aurora and Malhotra Hospital"
+44,Ojas Shah,Orthopedic,"Boase, Chhabra and Kalla Hospital"
+45,Amani Dhar,Dermatologist,"Lata, Samra and Sha Hospital"
+46,Vanya Dewan,Neurologist,"Khalsa, Kalita and Dasgupta Hospital"
+47,Siya Atwal,Pediatrician,Thaker-Mani Hospital
+48,Elakshi Kannan,Cardiologist,Jhaveri-Chhabra Hospital
+49,Zoya Doctor,Orthopedic,Dhawan-Singhal Hospital
+50,Darshit Lata,Pediatrician,Bakshi Ltd Hospital
+51,Nishith Subramaniam,Dermatologist,Kala LLC Hospital
+52,Devansh Kota,Orthopedic,"Divan, Krishna and Joshi Hospital"
+53,Taimur Sunder,Neurologist,"Balakrishnan, Sampath and Lalla Hospital"
+54,Farhan Kurian,Pediatrician,Wable-Ramakrishnan Hospital
+55,Zoya Walia,Cardiologist,"Chawla, Sandal and Zacharia Hospital"
+56,Romil Krishnamurthy,Dermatologist,Chauhan-Brar Hospital
+57,Navya Verma,Pediatrician,"Kuruvilla, Shan and Jaggi Hospital"
+58,Sana Jaggi,Orthopedic,Maharaj-Sankaran Hospital
+59,Jiya Som,Cardiologist,Kaur-Borah Hospital
+60,Anaya D’Alia,Orthopedic,"Ghosh, Hegde and Sani Hospital"
+61,Yuvaan Malhotra,Orthopedic,Madan-Saran Hospital
+62,Rati Sandal,Neurologist,Thakur-Johal Hospital
+63,Shray Mahajan,Neurologist,Sridhar Inc Hospital
+64,Divit Bal,Orthopedic,"Vasa, Ratta and Mangal Hospital"
+65,Tushar Desai,Dermatologist,Dani-Khare Hospital
+66,Myra Sheth,Neurologist,Brahmbhatt-Chander Hospital
+67,Zoya Loke,Neurologist,"Gupta, Dave and Seshadri Hospital"
+68,Sahil Gaba,Neurologist,Mallick-Doshi Hospital
+69,Kanav Bhandari,Neurologist,Kakar Ltd Hospital
+70,Kismat Bains,Cardiologist,"Vaidya, Keer and Lad Hospital"
+71,Saksham Gulati,Orthopedic,Sehgal Inc Hospital
+72,Jayan Dani,Cardiologist,"Chandran, Kadakia and Dutt Hospital"
+73,Alia Kunda,Pediatrician,Apte LLC Hospital
+74,Hazel Dua,Pediatrician,Saha and Sons Hospital
+75,Emir Wali,Pediatrician,"Gole, Chaudhari and Balasubramanian Hospital"
+76,Amani Tripathi,Cardiologist,Deshpande-Agate Hospital
+77,Prerak Ben,Orthopedic,Kakar-Desai Hospital
+78,Samaira Bal,Pediatrician,Kamdar-Subramaniam Hospital
+79,Shanaya Sastry,Neurologist,Verma and Sons Hospital
+80,Ira Sinha,Pediatrician,Viswanathan-Varma Hospital
+81,Samiha Barman,Dermatologist,Sen Ltd Hospital
+82,Khushi Ahuja,Neurologist,Sarkar LLC Hospital
+83,Ritvik Varughese,Neurologist,Tata-Kannan Hospital
+84,Dishani Korpal,Neurologist,Sidhu-Banerjee Hospital
+85,Jhanvi Roy,Pediatrician,Vyas Ltd Hospital
+86,Tanya Kant,Neurologist,Dyal PLC Hospital
+87,Yuvraj  Kade,Dermatologist,"Kohli, Acharya and Mane Hospital"
+88,Nirvi Sekhon,Cardiologist,Krishnamurthy-Buch Hospital
+89,Abram Ramachandran,Dermatologist,Roy Group Hospital
+90,Vihaan Gade,Orthopedic,"Rama, Kapur and Gandhi Hospital"
+91,Ahana  Kanda,Neurologist,Sarin Inc Hospital
+92,Prisha Kumar,Dermatologist,"Lad, Dutt and Srinivasan Hospital"
+93,Himmat Ghose,Pediatrician,Bhagat-Bali Hospital
+94,Hridaan Soman,Orthopedic,Talwar Group Hospital
+95,Darshit Chandra,Dermatologist,Setty-Mand Hospital
+96,Biju Chakrabarti,Neurologist,"Savant, Jha and Kalla Hospital"
+97,Bhamini Bala,Pediatrician,"Solanki, Karan and Kota Hospital"
+98,Anika Gera,Neurologist,Hans LLC Hospital
+99,Ojas Chacko,Orthopedic,"Sarkar, Khare and Gola Hospital"
+100,Kiaan Sur,Dermatologist,"Karnik, Sem and Hayre Hospital"
